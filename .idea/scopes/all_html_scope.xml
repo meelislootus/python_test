@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="all_html_scope" pattern="file:*.html" />
+</component>
